@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_login_page">Selamat Datang 👋</string>
+    <string name="message_login_page">Masuk ke akun anda</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="title_signup_page">Buat akun baru</string>
+    <string name="have_account">Sudah punya akun? Masuk</string>
+    <string name="not_have_account">Belum punya akun? Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding!</string>
+    <string name="message_welcome_page">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding aja!</string>
+    <string name="backButton">Kembali</string>
+    <string name="description">Diskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Map</string>
+</resources>
